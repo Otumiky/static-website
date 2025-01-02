@@ -30,8 +30,14 @@ project-root/
 │   └── dev/
 │       ├── main.tf
 │       ├── variables.tf
-        ├── outputs.tf
+│       ├── cloudfront.tf
+│       ├── outputs.tf
 │       └── terraform.tfvars
+├── website/
+│   └──
+│      ├── index.html
+│      ├── error.html
+│       
 ├── backend.tf
 ```
 ## Architectural Diagram
