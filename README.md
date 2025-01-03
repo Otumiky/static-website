@@ -82,10 +82,10 @@ terraform apply
 Ensure your static files are located in the directory specified by `var.source_directory`. Terraform will automatically upload them to the S3 bucket during `apply`.
 
 ### Step 6: Access Your Website
-- Retrieve the S3 bucket endpoint or CloudFront domain (if applicable) from the Terraform outputs.
+- Retrieve the S3 bucket  CloudFront domain from the Terraform outputs.
 - Access the static website using the endpoint:
 ```
-http://<bucket-name>.s3-website-<region>.amazonaws.com
+https://dghdhvdhh.cloudfront.net
 ```
 ![Alt text](https://github.com/Otumiky/static-website/blob/main/cdnwb.png)
 
