@@ -87,6 +87,11 @@ Ensure your static files are located in the directory specified by `var.source_d
 ```
 http://<bucket-name>.s3-website-<region>.amazonaws.com
 ```
+![Alt text](https://github.com/Otumiky/static-website/blob/main/cdnwb.png)
+
+![Alt text](https://github.com/Otumiky/static-website/blob/main/cdnurl.png)
+
+![Alt text](https://github.com/Otumiky/static-website/blob/main/cdnwb.png)
 
 ## Cleaning Up
 To remove all resources created by Terraform:
