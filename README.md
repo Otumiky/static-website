@@ -33,12 +33,13 @@ project-root/
 │       ├── cloudfront.tf
 │       ├── outputs.tf
 │       └── terraform.tfvars
+│        ├── backend.tf
 ├── website/
 │   └──
 │      ├── index.html
 │      ├── error.html
-│       
-├── backend.tf
+       
+
 ```
 ## Architectural Diagram
 ![Alt text](https://github.com/Otumiky/static-website/blob/main/static.drawio.png)
