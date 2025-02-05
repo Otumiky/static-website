@@ -87,9 +87,9 @@ Ensure your static files are located in the directory specified by `var.source_d
 ```
 https://dghdhvdhh.cloudfront.net
 ```
-![Alt text](https://github.com/Otumiky/static-website/blob/main/cdnwb.png)
-
 ![Alt text](https://github.com/Otumiky/static-website/blob/main/cdn.png)
+
+![Alt text](https://github.com/Otumiky/static-website/blob/main/cdnwb.png)
 
 ![Alt text](https://github.com/Otumiky/static-website/blob/main/cdnurl.png)
 
