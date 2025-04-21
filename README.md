@@ -42,7 +42,7 @@ project-root/
 
 ```
 ## Architectural Diagram
-![Alt text](https://github.com/Otumiky/static-website/blob/main/static.drawio.png)
+![Alt text](https://github.com/Otumiky/static-website/blob/main/static.drawi.png)
 
 
 
